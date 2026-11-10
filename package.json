@@ -5,6 +5,19 @@
   "license": "MIT",
   "type": "module",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HandsYe/dsh-lock-screen.git"
+  },
+  "homepage": "https://github.com/HandsYe/dsh-lock-screen#readme",
+  "bugs": "https://github.com/HandsYe/dsh-lock-screen/issues",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "lock-screen",
+    "wallpaper",
+    "privacy"
+  ],
   "exports": {
     ".": "./lib/index.js",
     "./client": "./lib/client.js",
