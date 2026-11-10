@@ -1,0 +1,6 @@
+node_modules/
+*.tgz
+
+# OS junk
+Thumbs.db
+Desktop.ini
